@@ -42,14 +42,14 @@ export default StyleSheet.create({
     marginBottom: 16
   },
 
-  heroeTitle: {
+  heroTitle: {
     fontSize: 20,
     fontWeight: 'bold',
     color: '#13131a',
     lineHeight: 30
   },
 
-  heroeDescription: {
+  heroDescription: {
     fontSize: 15,
     color: '#737380',
     marginTop: 16

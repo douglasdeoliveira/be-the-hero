@@ -1,21 +1,21 @@
 <h1 align="center">
-    <img alt="Be The Heroe" title="#betheheroe" src=".github/bethehero.svg" width="200px" />
+    <img alt="Be The Hero" title="#bethehero" src=".github/bethehero.svg" width="200px" />
 </h1>
 
 <h4 align="center">
   :coffee: Code and coffee
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/douglasdeoliveira/be-the-heroe.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/douglasdeoliveira/be-the-hero.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/douglasdeoliveira/be-the-heroe.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/douglasdeoliveira/be-the-hero.svg">
 
-  <a href="https://github.com/douglasdeoliveira/be-the-heroe/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/douglasdeoliveira/be-the-heroe.svg">
+  <a href="https://github.com/douglasdeoliveira/be-the-hero/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/douglasdeoliveira/be-the-hero.svg">
   </a>
 
-  <a href="https://github.com/douglasdeoliveira/be-the-heroe/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/douglasdeoliveira/be-the-heroe.svg">
+  <a href="https://github.com/douglasdeoliveira/be-the-hero/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/douglasdeoliveira/be-the-hero.svg">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -32,7 +32,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/betheheroe.png" width="100%">
+  <img alt="Frontend" src=".github/bethehero.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias

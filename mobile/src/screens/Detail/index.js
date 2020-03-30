@@ -62,10 +62,10 @@ export default function Detail() {
       </View>
 
       <View style={styles.contactBox}>
-        <Text style={styles.heroeTitle}>Salve o dia!</Text>
-        <Text style={styles.heroeTitle}>Seja o herói desse caso.</Text>
+        <Text style={styles.heroTitle}>Salve o dia!</Text>
+        <Text style={styles.heroTitle}>Seja o herói desse caso.</Text>
 
-        <Text style={styles.heroeDescription}>Entre em contato</Text>
+        <Text style={styles.heroDescription}>Entre em contato</Text>
 
         <View style={styles.actions}>
           <TouchableOpacity style={styles.action} onPress={sendWhatsApp}>
